@@ -4,9 +4,7 @@
 
 <p align="left">I'm a student from SUFE.</p>
 
-- 🔭 I’m currently working on [a word book app](https://github.com/dongguaguaguagua/word) with Swift UI.
-- 🌱 I’m currently learning [R](https://www.r-project.org/).
-- 👯 I’m looking to collaborate on [a movie tracing app](https://github.com/dongguaguaguagua/tracker).
+- 🔭 I’m currently working on [Zhihu on Obsidian](https://github.com/dongguaguaguagua/zhihu_obsidian) in TypeScript.
 
 ###
 
@@ -17,7 +15,7 @@
 </div>
 
 ###
-
+<!--   
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -33,5 +31,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
 </div>
-
+/> -->
 ###
